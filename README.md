@@ -1,4 +1,4 @@
-This repository contains the design and verification environment for the 32-bit comparator, implemented in SystemVerilog.
+### This repository contains the design and verification environment for the 32-bit comparator, implemented in SystemVerilog.
 
 ## Overview
 
